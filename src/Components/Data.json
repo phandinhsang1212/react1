@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name": "Nguyễn Công Phượng",
+        "tel": "09333333399",
+        "permission": 1
+    },
+    {
+        "id":2,
+        "name": "Nguyễn Văn Toàn",
+        "tel": "099eeeeee9",
+        "permission": 1
+    },
+    {
+        "id":3,
+        "name": "Nguyễn Tuấn Anh",
+        "tel": "095555599",
+        "permission": 1
+    },
+    {
+        "id":4,
+        "name": "Trần Minh Vương",
+        "tel": "09999999",
+        "permission": 1
+    },
+    {
+        "id":5,
+        "name": "Lương Xuân Trường",
+        "tel": "09977779",
+        "permission": 1
+    }
+]
