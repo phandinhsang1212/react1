@@ -263,7 +263,7 @@
 }
 
 .jcalendar {
-    position:absolute;
+    position:relative;
     z-index:9000;
     display:none;
     box-sizing:border-box;
@@ -301,7 +301,7 @@
 }
 
 .jcalendar .jcalendar-content {
-    position:absolute;
+    /* position:absolute; */
     z-index:9001;
     -webkit-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.39);
     -moz-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.39);
